@@ -1,0 +1,1 @@
+*.txt,[[:space:]]*.waw,[[:space:]]*.dat filter=lfs diff=lfs merge=lfs -text
