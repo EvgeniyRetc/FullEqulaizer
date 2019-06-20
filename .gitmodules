@@ -1,0 +1,9 @@
+[submodule "Equlaizer"]
+	path = Equlaizer
+	url = git://github.com/EvgeniyRetc/Equlaizer.git
+[submodule "myFilterLibTest"]
+	path = myFilterLibTest
+	url = git://github.com/EvgeniyRetc/myFilterLibTest.git
+[submodule "myFilter"]
+	path = myFilter
+	url = git://github.com/EvgeniyRetc/myFilter.git
